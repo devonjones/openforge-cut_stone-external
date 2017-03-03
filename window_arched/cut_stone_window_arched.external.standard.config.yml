@@ -1,0 +1,14 @@
+base:
+  - ../../parts/wall_base/external/cut_stone_wall_base.
+  - .external.stl
+back:
+  - ../../parts/window/external.standard/window_back.
+  - .external.standard.stl
+x-min: 2 
+x-max: 4
+y-min: 1
+y-max: 4
+result:
+  - cut_stone_window.
+  - .external.standard.stl
+external: true
