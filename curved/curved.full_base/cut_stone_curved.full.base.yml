@@ -1,0 +1,14 @@
+base:
+  - ../../base/full/full.curved.convex.external/cut_stone_full_base.
+  - .curved.convex.external.stl
+tile:
+  - cut_stone_curved.
+  - .external.convex.stl
+x-min: 1
+x-max: 4
+y-min: 1
+y-max: 4
+result:
+  - cut_stone_curved.
+  - .external.standard.convex.full_base.stl
+

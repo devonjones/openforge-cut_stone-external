@@ -1,0 +1,11 @@
+base:
+  - ../../parts/curved_base/external/cut_stone_curved_base.
+  - .external.stl
+back:
+  - ../../parts/curved_back/external.standard/cut_stone_curved_back.
+  - .external.standard.stl
+min: 1
+max: 4
+result:
+  - cut_stone_curved.
+  - .external.stl
