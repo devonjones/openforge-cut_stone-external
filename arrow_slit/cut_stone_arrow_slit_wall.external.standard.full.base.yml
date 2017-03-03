@@ -1,0 +1,14 @@
+base:
+  - ../../base/full/full.wall.external/cut_stone_full_base.
+  - .wall.external.stl
+tile:
+  - cut_stone_arrow_slit_wall.
+  - .external.standard.stl
+x-min: 1
+x-max: 4
+y-min: 1
+y-max: 4
+result:
+  - cut_stone_arrow_slit_wall.
+  - .external.standard.full_base.stl
+
